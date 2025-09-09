@@ -1,0 +1,15 @@
+package Com.Sample;
+
+public class AreaofCircle {
+	
+	public static void main(String[] args) {
+		float radius = 3.5f;
+		float pie = 3.14f;
+		double area = pie*radius*radius;
+		System.out.println("Area of Circle: "+area);
+	}
+
+}
+
+OUTPUT-
+Area of Circle: 38.465003967285156
